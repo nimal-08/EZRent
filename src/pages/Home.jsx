@@ -7,7 +7,7 @@ function Home() {
     <div className="p-6">
       <h1 className="text-2xl font-bold mb-4 text-brandBlue">Welcome to RentEase</h1>
 
-      {/* Scrollable Buttons Row */}
+      
       <div className="flex overflow-x-auto space-x-4 pb-4">
         {buttons.map((btn, idx) => (
           <button
