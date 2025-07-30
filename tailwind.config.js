@@ -3,7 +3,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        brandBlue: "#1E40AF", // nav blue
+        brandBlue: "#1E40AF",
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
